@@ -64,3 +64,11 @@ Simplifies preprocessing tasks.
 Data Preparation and Cleaning: Use dataprep and klib to clean and explore your dataset.
 Exploratory Data Analysis: Generate EDA reports and visualize data distributions and correlations.
 Modeling: Use pycaret to build, compare, and deploy machine learning models.
+
+# Featuretools
+The Featuretools package is valuable for automated feature engineering, creating new features from raw data to improve model performance. Both libraries are especially useful if you are working with small datasets.
+
+# Advantages
+Enhances model performance through automated feature engineering.
+
+
