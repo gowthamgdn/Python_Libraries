@@ -1,1 +1,9 @@
-
+dataprep
+pycaret
+klib
+pandas
+numpy
+scikit-learn
+jupyter
+matplotlib
+seaborn
