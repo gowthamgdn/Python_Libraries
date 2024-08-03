@@ -3,6 +3,7 @@ These libraries will automate our EDA  process and reduce our efforts and time.
 
 Exploratory Data Analysis and Modeling with Dataprep, PyCaret, and Klib
 
+
 This repository contains code and examples of using three powerful Python libraries for data preparation, exploratory data analysis (EDA), and machine learning: dataprep, pycaret, and klib.
 
 # Overview
@@ -11,6 +12,7 @@ In this project, we perform data preparation, EDA, and machine learning modeling
 Dataprep: For quick and efficient data cleaning and exploration.
 PyCaret: For simplified machine learning workflows.
 Klib: For advanced data cleaning and EDA.
+Featuretools: Enhances model performance through automated feature engineering.
 
 Getting Started
 # Prerequisites
@@ -18,6 +20,7 @@ Ensure you have Python 3.6+ installed. You'll need the following Python packages
 dataprep
 pycaret
 klib
+featuretools
 pandas
 numpy
 
