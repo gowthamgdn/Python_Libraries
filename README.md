@@ -14,7 +14,6 @@ PyCaret: For simplified machine learning workflows.
 Klib: For advanced data cleaning and EDA.
 Featuretools: Enhances model performance through automated feature engineering.
 
-Getting Started
 # Prerequisites
 Ensure you have Python 3.6+ installed. You'll need the following Python packages:
 dataprep
