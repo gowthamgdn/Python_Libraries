@@ -22,7 +22,7 @@ pandas
 numpy
 
 You can install these packages using pip:
-pip install dataprep pycaret klib pandas numpy
+# pip install dataprep pycaret klib pandas numpy
 
 
 # Libraries Overview
